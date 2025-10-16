@@ -1,0 +1,8 @@
+=== legacy address===
+mhen7zZFTSSvAE6TLDNbhtZyVmTettRGWW
+
+=== bech32 address ===
+bcrt1q4ptl3exddyjuercx6gmhysmd8nqqwtfenzvw8q
+
+=== bech32m address===
+bcrt1paha49yje48n9avym5029n76a66ej73vjq7vs68xe9nvp7g9ans2sa92u2x
